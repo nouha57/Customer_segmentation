@@ -25,5 +25,6 @@ Monoprix has provided us with a dataset that contains these features :
 1. Analyse the data provided by Monoprix 
 2. Implement RFM model 
 3. Perform customer segmentation
+4. Market Basket Analysis 
 
 
