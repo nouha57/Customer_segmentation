@@ -11,9 +11,11 @@ Customers shop for groceries by using a credit card or by just paying directly.
 Monoprix has provided us with a dataset that contains these features :
 
 * Cust_ID
-* Date
-* Basket_ID
-* Article_ID
+* Store_ID
+* Date : date of purchase
+* Basket_ID : number of Invoice 
+* Structure_ID
+* Article_ID 
 * Quantity
 * Amount_Paid
 
